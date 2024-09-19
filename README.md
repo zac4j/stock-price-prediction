@@ -1,2 +1,3 @@
-# stock-price-prediction
-Stock Price Prediction with Deep Learning Methods
+# Stock Market Analysis
+
+Stock Market Analysis with Deep Learning Methods
